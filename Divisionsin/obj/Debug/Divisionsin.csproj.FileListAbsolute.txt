@@ -1,0 +1,7 @@
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\bin\Debug\Divisionsin.exe.config
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\bin\Debug\Divisionsin.exe
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\bin\Debug\Divisionsin.pdb
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\obj\Debug\Divisionsin.csprojAssemblyReference.cache
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\obj\Debug\Divisionsin.csproj.CoreCompileInputs.cache
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\obj\Debug\Divisionsin.exe
+C:\Users\Mahonri\source\repos\Divisionsin\Divisionsin\obj\Debug\Divisionsin.pdb
